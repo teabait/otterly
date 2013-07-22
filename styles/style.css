@@ -133,6 +133,26 @@ img {
 	z-index:2;
 }
 
+
+/*******************************************************************
+BUTTONS
+*******************************************************************/
+button {
+	width: 100px;
+	height: 40px;
+	background-color: #f484a3;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	margin:  20px auto 0px auto;
+	
+}
+
+button:hover
+{
+	background-color:
+}
+
 /*******************************************************************
 TYPOGRAPHY
 *******************************************************************/
@@ -161,9 +181,9 @@ color: gray;
 
 } 
 
-p { 
+.p { 
 
-font-family: 'Raleway', sans-serif;
+font-family: 'Karla', sans-serif;
 text-align: center;
 color: #FFF;
 
@@ -181,7 +201,7 @@ footer {
 	position: relative;	
 	text-align: center;
 	color: gray;
-	margin: 5% auto 5px auto;
+	margin: 20px auto 10px auto;
 	clear: both;
 }
 
