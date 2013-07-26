@@ -148,9 +148,8 @@ button {
 	
 }
 
-button:hover
-{
-	background-color:
+button:hover {
+	background-color: rgba(240, 94, 135, 0.88);
 }
 
 /*******************************************************************
@@ -190,10 +189,9 @@ color: #FFF;
 
 } 
 a {
-	font-size: 80px;
 	font-family: 'Raleway', sans-serif;
 	color: #f484a3;
-	text-decoration: bold;
+	text-decoration: none;
 	
 }
 footer {
